@@ -1,0 +1,22 @@
+header {
+  height: 100px;
+  background-color: black;
+}
+.nav_pic {
+  width: 100px;
+  height: 100px;
+}
+main {
+  background: url(img/img/FBI_logo.svg) no-repeat center;
+  height: 700px;
+  background-color: blue;
+}
+.header_nav_link:hover {
+  text-decoration: underline;
+  color: blanchedalmond;
+}
+ul,a{ 
+    color: blanchedalmond;
+    text-decoration: none;
+    display: flex;
+}
